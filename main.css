@@ -1,4 +1,28 @@
-.coin {
-    width: 25%;
-    height: 25%;
+.body {
+    background-color: goldenrod;
+    text-align: center;
+    margin: 0 auto;
 }
+
+
+#image {
+     height: 550px;
+     width: 550px;
+     border-radius: 50%;
+}
+.choice-form {
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    margin: auto;
+}
+#button1 {
+    border-radius: 55%;
+    height: 150px;
+    width: 150px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    
+}
+
